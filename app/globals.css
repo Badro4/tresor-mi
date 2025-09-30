@@ -12,15 +12,25 @@
   --font-mono: var(--font-geist-mono);
 }
 
+@theme {
+  --color-primary: #1e1b4b;        /* Indigo foncé */
+  --color-secondary: #3b82f6;      /* Bleu vif */
+  --color-accent: #60a5fa;         /* Bleu clair */
+  --color-purple: #7c3aed;         /* Violet */
+  --color-background: #0f172a;     /* Bleu très foncé */
+  --color-title: #ffffff;          /* Blanc pur */
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #0f172a;         /* Bleu foncé au lieu de noir */
+    --foreground: #f1f5f9;
   }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: linear-gradient(to bottom right, #1e3a8a, #581c87, #312e81);
   font-family: Arial, Helvetica, sans-serif;
+  color: #e2e8f0;                  /* Texte clair pour le fond sombre */
+  min-height: 100vh;
 }

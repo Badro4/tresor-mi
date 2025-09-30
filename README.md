@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 Plateforme de Ressources Étudiantes
 
-## Getting Started
+Une plateforme collaborative créée **par les étudiants, pour les étudiants** afin de centraliser et partager facilement toutes les ressources pédagogiques.
 
-First, run the development server:
+## ✨ Fonctionnalités
 
+- **📖 Ressources organisées** par année et spécialité
+- **🔍 Recherche avancée** avec filtres par type et année
+- **👥 Contribution communautaire** - chaque étudiant peut proposer des ressources
+- **📱 Interface moderne** et responsive
+- **🎯 Navigation intuitive** par cycle ingénieur
+
+## 🚀 Technologies utilisées
+
+- **Frontend**: Next.js 14, React, TypeScript, Tailwind CSS
+- **Icons**: Lucide React
+- **Styling**: Design system personnalisé avec variables CSS
+- **Deployment**: Vercel (recommandé)
+
+## 📦 Installation
+
+1. **Cloner le repository**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/votre-username/nom-du-repo.git
+cd nom-du-repo
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Installer les dépendances**
+```bash
+npm install
+# ou
+yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **Lancer en développement**
+```bash
+npm run dev
+# ou
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. **Ouvrir dans le navigateur**
+```
+http://localhost:3000
+```
 
-## Learn More
+## 🎯 Structure du projet
 
-To learn more about Next.js, take a look at the following resources:
+```
+src/
+├── app/                    # Pages Next.js 14 (App Router)
+│   ├── ingenieur/         # Pages du cycle ingénieur
+│   ├── about/             # Page À propos
+│   ├── contact/           # Page de contact
+│   └── layout.tsx         # Layout principal
+├── components/            # Composants réutilisables
+├── data/                  # Données des ressources (JSON)
+└── styles/               # Fichiers CSS globaux
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📊 Données
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Les ressources sont stockées dans des fichiers JSON dans `/data` :
+- `premiereING.json` - Ressources de 1ère année
+- Structure extensible pour les autres années
 
-## Deploy on Vercel
+## 🤝 Contribution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Nous encourageons tous les étudiants à contribuer ! 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Comment contribuer :**
+1. Fork le projet
+2. Ajoute tes ressources dans les fichiers JSON correspondants
+3. Ou utilise le formulaire de contact pour proposer des ressources
+4. Crée une Pull Request
+
+**Types de ressources acceptés :**
+- 📝 Sujets d'examens
+- 📚 Travaux dirigés (TD)
+- 🎓 Cours et supports
+- 💡 Exercices corrigés
+- 🔍 Annotations et conseils
+
+## 📧 Contact
+
+Une question ? Une ressource à partager ? 
+Utilisez notre [page de contact](/contact) ou ouvrez une issue sur GitHub.
+
+## 🎨 Design System
+
+Le projet utilise un design system personnalisé avec :
+- Couleurs principales : Indigo, Bleu, Violet
+- Typographie : Geist Sans/Mono
+- Thème sombre par défaut
+
+## 📄 Licence
+
+Ce projet est open source et disponible sous licence MIT. Fait par des étudiants, pour des étudiants ❤️
+
+---
+
+**💡 Un problème ? Une idée ?** N'hésitez pas à ouvrir une issue ou à contribuer !
+```
+
+C'est un README simple mais complet qui :
+- Présente bien le projet
+- Explique comment l'installer
+- Encourage la contribution
+- Montre la philosophie "étudiants pour étudiants"
+- Garde un ton friendly et accessible
+
+Tu peux bien sûr l'adapter selon tes besoins !

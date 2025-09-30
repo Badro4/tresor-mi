@@ -1,0 +1,77 @@
+{
+  "matieres": [
+    {
+      "nom": "Recherche Opérationelle",
+      "ressources": [
+        {
+          "id": "td1-2024",
+          "titre": "TD 1 - Modeling",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/v4blp7.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td2-2024",
+          "titre": "TD 2 - Simplex Graphical",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/ute99s.pdf",
+          "taille": "0.5 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td3-2024",
+          "titre": "TD 3 - Dual Combinatorial Problems Local Search",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/7ee0m8.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Traitement de Signaux",
+      "ressources": [
+        {
+          "id": "td1-tns-2024",
+          "titre": "TD 1 - Généralités sur signaux",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/7b4lrt.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td2-tns-2024",
+          "titre": "TD 2 - Traitement des signaux analogiques",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/e4x97w.pdf",
+          "taille": "0.3 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td3-tns-2024",
+          "titre": "TD 3 - Traitement des signaux numériques ",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/dkm1vv.pdf",
+          "taille": "0.4 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td4-tns-2024",
+          "titre": "TD 4 - Transformée de Fourier discrète & Transformée d’ondellette",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/c4px1a.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        }
+      ]
+    }
+  ]
+}

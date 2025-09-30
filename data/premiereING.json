@@ -1,0 +1,351 @@
+{
+  "matieres": [
+    {
+      "nom": "Analyse 1",
+      "ressources": [
+        {
+          "id": "td-1-2023",
+          "titre": "TD 1 - Le corps des nombres reels",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/uiexkf.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-2-2023",
+          "titre": "TD 2 - Les suites reelles ",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/fvwj1q.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-3-2023",
+          "titre": "TD 3 - Les fonctions réelles d'une variable réelle",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/6dsptu.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-4-2023",
+          "titre": "TD 4 - Les fonctions réelles d'une variable réelle (partie 2)",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/wgziiy.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-5-2023",
+          "titre": "TD 5 - La derivabilité des fonctions réelles d'une variable réelle",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/liapmm.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-6-2023",
+          "titre": "TD 6 - Developpements limitées",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/73uq9z.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Analyse 2",
+      "ressources": [
+        {
+          "id": "am-td1-2021",
+          "titre": "TD 1 - Calcul des primitives",
+          "type": "TD",
+          "annee": 2021,
+          "fichierUrl": "https://files.catbox.moe/0ye6kr.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "am-td2-2021",
+          "titre": "TD 2 - Intégrale définie",
+          "type": "TD",
+          "annee": 2021,
+          "fichierUrl": "https://files.catbox.moe/x5fgtq.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+         {
+          "id": "cr-td2-2021",
+          "titre": "Corrigé TD 2",
+          "type": "TD",
+          "annee": 2021,
+          "fichierUrl": "https://files.catbox.moe/xbl2uk.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "am-td3-2021",
+          "titre": "TD 3 - Equations différentielles",
+          "type": "TD",
+          "annee": 2021,
+          "fichierUrl": "https://files.catbox.moe/4ryp0e.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+         {
+          "id": "cr-td3-2021",
+          "titre": "Corrigé TD 3",
+          "type": "TD",
+          "annee": 2021,
+          "fichierUrl": "https://files.catbox.moe/kuia6l.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Algèbre 1",
+      "ressources": [
+        {
+          "id": "td-1-2023",
+          "titre": "TD 1 - Logique et Raisonnement Mathématique",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/1sxts9.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-1-solution-2023",
+          "titre": "Solution TD 1 - Logique et Raisonnement Mathématique",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/it4ynt.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-2-2023",
+          "titre": "TD 2 - Ensembles, Applications et Relations",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/turaw1.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-2-solution-2023",
+          "titre": "Solution TD 2 - Ensembles, Applications et Relations",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/b1deae.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-3-2023",
+          "titre": "TD 3 - Structures Algébriques",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/advq0h.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-3-solution-2023",
+          "titre": "Solution TD 3 - Structures Algébriques",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/woe067.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-4-2023",
+          "titre": "TD 4 - Polynômes et Fractions Rationnelles",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/4r89yi.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Algèbre 2",
+      "ressources": [
+        {
+          "id": "td-1-2024-2025",
+          "titre": "TD 1 - Espaces Vectoriels",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/8ls29u.pdf",
+          "taille": "0.4 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-2-2024-2025",
+          "titre": "TD 2 - Applications linéaires",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/ws96hn.pdf",
+          "taille": "0.3 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-3-2024-2025",
+          "titre": "TD 3 - Matrices et systemes d'équations",
+          "type": "TD",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/d554b5.pdf",
+          "taille": "0.4 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "test-ing-2024",
+          "titre": "Test A1 A2 | B1 B2 - 2024/2025",
+          "type": "Test",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/ws96hn.pdf",
+          "taille": "0.6 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "exam-ing-2025",
+          "titre": "Examen final d'Algèbre 2 - 2025",
+          "type": "Examen",
+          "annee": 2025,
+          "fichierUrl": "https://files.catbox.moe/1jz0wf.pdf",
+          "taille": "0.4 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "ASD 1",
+      "ressources": [
+        
+      ]
+    },
+    {
+      "nom": "Architecture des Ordinateurs 1",
+      "ressources": [
+        {
+          "id": "td-1-2023",
+          "titre": "TD 1 - Conversion des bases numériques",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/paf4r2.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-4-2023",
+          "titre": "TD 4 - Virgule Fixe & Virgule Flottante",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/qlj4fz.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-5-2023",
+          "titre": "TD 5 - Codification et Représentation des caractères",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/9npkcn.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "td-6-2023",
+          "titre": "TD 6 - Algèbre de Boole & circuits combinatoires",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/82t1xx.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Bureautique et Web",
+      "ressources": [
+        {
+          "id": "examen_web_2023_2024",
+          "titre": "Examen Final - Bureatique et Web",
+          "type": "Examen",
+          "annee": 2024,
+          "fichierUrl": "https://files.catbox.moe/v8n2ro.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Système d'Exploitation 1",
+      "ressources": [
+        {
+          "id": "tp-1-2023",
+          "titre": "TP 1 - Installation Linux (dans une VM)",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/mcrgrx.pdf",
+          "taille": "0.6 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "tp-2-2023",
+          "titre": "TP 2 - Prise en main Linux",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/38ko6b.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "tp-3-part1-2023",
+          "titre": "TP 3 - Partie 1 - Gestion des utilisateurs",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/biqo7y.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "tp-3-part2-2023",
+          "titre": "TP 3 - Partie 2 - Gestion des utilisateurs",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/d0x89w.pdf",
+          "taille": "0.7 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "tp-4-part1-2023",
+          "titre": "TP 4 - Partie 1 - Droits d'accès",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/d6lp1p.pdf",
+          "taille": "0.8 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "tp-4-part2-2023",
+          "titre": "TP 4 - Partie 2 - Droits d'accès",
+          "type": "TP",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/kly1nu.pdf",
+          "taille": "0.8 MB",
+          "format": "PDF"
+        }
+      ]
+    }
+  ]
+}

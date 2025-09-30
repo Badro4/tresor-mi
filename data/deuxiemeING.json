@@ -1,0 +1,104 @@
+{
+  "matieres": [
+    {
+      "nom": "Introduction au Base de Données",
+      "ressources": [
+        {
+          "id": "bdd-td1-2023",
+          "titre": "TD 1 - Introduction aux bases de données",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/tf3nm1.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "bdd-td2-2023",
+          "titre": "TD 2 - Modèle Entité / Association",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/moy79y.pdf",
+          "taille": "62 KB",
+          "format": "PDF"
+        },
+        {
+          "id": "bdd-td3-2023",
+          "titre": "TD 3 - Traduction du Modèle Entité-Association vers le Modèle Relationnel",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/vanh5f.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "bdd-td4-2023",
+          "titre": "TD 4 - Algèbre Relationnelle ",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/y4r2v9.pdf",
+          "taille": "78 KB",
+          "format": "PDF"
+        },
+        {
+          "id": "bdd-td5-2023",
+          "titre": "TD 5 - Le langage SQL",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/rdj8xf.pdf",
+          "taille": "0.2 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Algèbre 3",
+      "ressources": [
+        {
+          "id": "alg-td1-2023",
+          "titre": "TD 1 -  Les déterminants et systèmes d'équations linéaires",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/3w5pnw.pdf",
+          "taille": "88 KB",
+          "format": "PDF"
+        },
+        {
+          "id": "alg-td2-2023",
+          "titre": "TD 2 - Construction d'un anneau des polynômes",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/ggu82g.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        },
+        {
+          "id": "alg-td3-2023",
+          "titre": "TD 3 - Valeurs propres et vecteurs propres, polynôme caractéristique",
+          "type": "TD",
+          "annee": 2023,
+          "fichierUrl": "https://files.catbox.moe/riwbdo.pdf",
+          "taille": "0.1 MB",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "nom": "Analyse 3",
+      "ressources": [
+        
+      ]
+    },
+    {
+      "nom": "Programmation Orienté Objet",
+      "ressources": [
+        
+      ]
+    },
+    {
+      "nom": "Théorie des graphes",
+      "ressources": [
+        
+      ]
+    }
+  ]
+}
