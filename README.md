@@ -100,13 +100,3 @@ Ce projet est open source et disponible sous licence MIT. Fait par des étudiant
 ---
 
 **💡 Un problème ? Une idée ?** N'hésitez pas à ouvrir une issue ou à contribuer !
-```
-
-C'est un README simple mais complet qui :
-- Présente bien le projet
-- Explique comment l'installer
-- Encourage la contribution
-- Montre la philosophie "étudiants pour étudiants"
-- Garde un ton friendly et accessible
-
-Tu peux bien sûr l'adapter selon tes besoins !
