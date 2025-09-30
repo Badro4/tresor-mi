@@ -113,7 +113,7 @@ export default function Home() {
         {/* Footer CTA */}
         <div className="mt-8 text-center">
           <p className="text-blue-200 text-sm">
-            Besoin d'aide ? <Link href="/contact" className="text-white underline hover:text-blue-300 transition-colors">Contactez-nous</Link>
+            {"Besoin d'aide ?"} <Link href="/contact" className="text-white underline hover:text-blue-300 transition-colors">Contactez-nous</Link>
           </p>
         </div>
       </div>

@@ -93,11 +93,11 @@ export default function ContactPage() {
                   💡 Idées de ce que vous pouvez nous envoyer :
                 </h4>
                 <ul className="text-gray-300 text-sm space-y-1">
-                  <li>• Des sujets d'examens manquants</li>
+                  <li>• Des sujets d&apos;examens manquants</li>
                   <li>• Des TD ou exercices supplémentaires</li>
                   <li>• Des corrections détaillées</li>
                   <li>• Un bug sur le site</li>
-                  <li>• Une suggestion d'amélioration</li>
+                  <li>• Une suggestion d&apos;amélioration</li>
                   <li>• Une matière que vous souhaitez voir ajoutée</li>
                 </ul>
               </div>

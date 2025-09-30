@@ -32,7 +32,7 @@ export default function AboutPage() {
               <p className="text-gray-300 text-lg leading-relaxed">
                 Créer une plateforme collaborative où chaque étudiant peut accéder facilement 
                 à toutes les ressources pédagogiques nécessaires pour réussir son parcours. 
-                Nous croyons en la puissance du partage et de l'entraide entre étudiants.
+                Nous croyons en la puissance du partage et de l&apos;entraide entre étudiants.
               </p>
             </div>
           </div>
@@ -83,13 +83,13 @@ export default function AboutPage() {
               des ressources éparpillées entre différentes plateformes, groupes WhatsApp et drives personnels.
             </p>
             <p>
-              Fatigués de cette dispersion, un groupe d'étudiants s'est réuni pour créer 
-              <span className="text-accent font-semibold"> l'outil que nous aurions aimé avoir </span>
+              Fatigués de cette dispersion, un groupe d&apos;étudiants s&apos;est réuni pour créer 
+              <span className="text-accent font-semibold"> l&apos;outil que nous aurions aimé avoir </span>
               dès notre première année.
             </p>
             <p>
-              Aujourd'hui, la plateforme continue d'évoluer grâce aux contributions de toute la communauté étudiante, 
-              rendant l'apprentissage plus collaboratif et moins stressant pour tous.
+              Aujourd&apos;hui, la plateforme continue d&apos;évoluer grâce aux contributions de toute la communauté étudiante, 
+              rendant l&apos;apprentissage plus collaboratif et moins stressant pour tous.
             </p>
           </div>
         </div>

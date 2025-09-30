@@ -91,7 +91,7 @@ export default function PremiereAnneePage() {
           </h1>
           <div className="h-1 bg-gradient-to-r from-transparent via-blue-400 to-transparent rounded-full mt-5"></div>
           <p className="text-xl text-blue-100 max-w-2xl mx-auto leading-relaxed pt-5">
-            Tous les sujets d'examens, TD et exercices pour <span className="font-semibold text-white">réussir ton année</span>
+            Tous les sujets d&apos;examens, TD et exercices pour <span className="font-semibold text-white">réussir ton année</span>
           </p>
         </div>
 
