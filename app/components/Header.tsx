@@ -18,7 +18,7 @@ export default function Header() {
           </span>
         </Link>
 
-        <ul className="flex gap-8 font-semibold text-base">
+        <ul className="flex items-center gap-8 font-semibold text-base">
           <li>
             <Link href="/" className="relative group py-2 inline-block">
               <span className="relative z-10 transition-colors duration-300 group-hover:text-blue-300">
@@ -28,7 +28,7 @@ export default function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/about" className="relative group py-2 inline-block">
+            <Link href="/about" className="relative group py-2 inline-block whitespace-nowrap">
               <span className="relative z-10 transition-colors duration-300 group-hover:text-blue-300">
                 À propos
               </span>

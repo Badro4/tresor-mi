@@ -27,7 +27,7 @@ export default function Home() {
   ];
 
   return (
-    <main className="min-h-screen relative overflow-hidden bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900">
+    <main className="min-h-screen relative overflow-hidden bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900 pt-25 md:pt-0">
       {/* Contenu */}
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen gap-8 p-6">
         {/* Header */}
